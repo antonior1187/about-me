@@ -12,3 +12,13 @@ My Favorite Hobby is Playing Games and Music
 
 My Favorite Subject is Math
 
+Schedule:
+
+1.Chemistry
+2.Spanish
+3.English
+4.Gym
+5.Bhp
+6.Sep10
+7.History
+8.Algebra
