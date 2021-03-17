@@ -1,17 +1,27 @@
-# about-me
 
-My Name is Antonio Ruiz
 
-My email is antonior1187@hstat.org
+# My Name is _Antonio Ruiz_
 
-My School is the High School of Telecommunications, Arts, and Technology
+### My email is antonior1187@hstat.org
 
-Bio: I am 16 years old living in New York. I have 2 Younger Brothers and 1 Younger Sister
+#### My School is the High School of Telecommunications, Arts, and Technology
 
-My Favorite Hobby is Playing Games and Music
+**Bio:** I am 16 years old living in New York. I have 2 Younger Brothers and 1 Younger Sister
 
-My Favorite Subject is Math
+### My Favorite Hobbies
+1. Playing Games  
+2. Music
+3. Singing
 
+### My Favorite Subjects
+* Math
+  * Algebra 
+  * Triginomatry
+* Science
+  * Physics
+  * Chemistry
+### My Favorite Website is [Youtube](https://www.youtube.com/)
+```
 Schedule:
 
 1.Chemistry
@@ -22,3 +32,4 @@ Schedule:
 6.Sep10
 7.History
 8.Algebra
+```
