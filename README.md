@@ -34,3 +34,5 @@ Schedule:
 7.History
 8.Algebra
 ```
+
+Reviewed By Jordi Simbana 
