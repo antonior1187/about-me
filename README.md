@@ -25,12 +25,12 @@
 ```
 Schedule:
 
-1.Chemistry
-2.Spanish
-3.English
-4.Gym
-5.Bhp
-6.Sep10
-7.History
-8.Algebra
+1.English
+2.Sep11
+3.APUSH
+4.APCalculus
+5.Lunch
+6.Dance
+7.Science
+8.Spanish
 ```
