@@ -16,7 +16,7 @@
 ### My Favorite Subjects
 * Math
   * Algebra 
-  * Triginomatry
+  * Trigonomatry
 * Science
   * Physics
   * Chemistry
